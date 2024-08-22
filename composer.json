@@ -6,8 +6,8 @@
     "license": "MIT",
 	"repositories": [
 		{
-			"type": "path",
-			"url": "./crud_module"
+			"type": "vcs",
+			"url": "https://github.com/AbyssalDon/crud_module"
 		}
 	],
     "require": {
